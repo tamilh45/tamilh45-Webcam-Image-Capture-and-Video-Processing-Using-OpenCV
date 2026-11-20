@@ -135,11 +135,13 @@ Live webcam video is displayed
 
 ### iii) Display the video by resizing the window
 Video is shown in resized resolution (640 × 480)
+
 <img width="330" height="488" alt="image" src="https://github.com/user-attachments/assets/d21bce64-db21-4a2d-a402-8761b4103d34" />
 
 
 ### iv) Rotate and display the video
 Video is displayed after rotation (90° clockwise)
+
 <img width="372" height="503" alt="image" src="https://github.com/user-attachments/assets/b4034994-afb0-470c-ba32-a1cac2624585" />
 
 ---
