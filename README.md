@@ -125,11 +125,13 @@ cap.release()
 
 ### i) Write the frame as JPG image
 Captured image is saved as `captured_image.jpg`
+
 <img width="640" height="480" alt="captured_frame" src="https://github.com/user-attachments/assets/9cadc409-b66b-4eaa-b0eb-22bd8e2be555" />
 
 
 ### ii) Display the video
 Live webcam video is displayed
+
 <img width="648" height="487" alt="image" src="https://github.com/user-attachments/assets/a82dc146-e783-448c-9732-c91c9a651caf" />
 
 
